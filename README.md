@@ -69,3 +69,4 @@ This implements a basic user-based collaborative filtering recommendation system
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/6261c849-d7d5-44b8-a4f7-04e6b5e51d1f)
+![Image](https://github.com/user-attachments/assets/ce9684e3-2c9c-48b4-93e5-bcfd42c8bed4)
